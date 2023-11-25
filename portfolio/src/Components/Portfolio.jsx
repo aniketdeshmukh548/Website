@@ -13,7 +13,7 @@ const Portfolio = () => {
     { id: 3, src: navbar, demoLink: 'https://restaurantwbsite.netlify.app', codeLink: 'https://github.com/aniketdeshmukh548/Restaurant-website' },
     { id: 4, src: reactParallax, demoLink: 'https://anikets-portfolio.netlify.app', codeLink: 'https://github.com/aniketdeshmukh548/Website' },
     { id: 5, src: reactSmooth, demoLink: '', codeLink: '' },
-    { id: 6, src: reactWeather, demoLink: '', codeLink: '' },
+    { id: 6, src: reactWeather, demoLink: '.', codeLink: '' },
   ];
 
   const handleDemoClick = (demoLink) => {
